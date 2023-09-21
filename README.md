@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nlj8wm778qog2i4n?svg=true)](https://ci.appveyor.com/project/OlyaMa/async-await)
